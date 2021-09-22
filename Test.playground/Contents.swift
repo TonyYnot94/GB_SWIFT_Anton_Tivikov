@@ -1,4 +1,8 @@
 import UIKit
 
-var greeting = "Hello, playground"
-print("додбавил строку в файл")
+var greeting = "Hell omom playg round oooo"
+
+var a = greeting.components(separatedBy: " ")
+print(a)
+
+
