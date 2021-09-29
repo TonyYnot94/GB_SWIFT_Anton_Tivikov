@@ -1,6 +1,5 @@
 import UIKit
 
-
 // Задание 1
 
 func isEvenNum (num : Int) -> String{
