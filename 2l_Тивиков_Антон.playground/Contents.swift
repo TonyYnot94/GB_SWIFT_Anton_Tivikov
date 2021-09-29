@@ -82,7 +82,7 @@ arrayWithFiboNums(n: 50)
 var newArrayEratosphen : [Int] = []
 var n = 100
 var helpArray : [Int] = []
-for new_index in 2...n{
+for new_index in 2...n {
     helpArray.append(new_index)
 }
 
