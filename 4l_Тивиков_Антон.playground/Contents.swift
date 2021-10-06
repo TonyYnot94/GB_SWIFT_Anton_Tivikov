@@ -5,7 +5,7 @@ class Car {
     var mark : String
     var model : String
     var mileage : Double
-    var isWindowsOpen : WindowsIsOpen = .closed
+    var isWindowsOpen : WindowsIsOpen
     var isEngineRunning : EngineIsRunning
     
     init(mark : String , model : String , mileage : Double , isWindowsOpen : WindowsIsOpen, isEngineRunning : EngineIsRunning  ){
