@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D562EC2272FC8DA008A888A /* ToDoList.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ToDoList.md; sourceTree = "<group>"; };
 		4DAE15B92729255F00142B21 /* UI_1l_Тивиков_Антон.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI_1l_Тивиков_Антон.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DAE15BC2729255F00142B21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DAE15BE2729255F00142B21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 				4DAE15C52729256200142B21 /* Assets.xcassets */,
 				4DAE15C72729256200142B21 /* LaunchScreen.storyboard */,
 				4DAE15CA2729256200142B21 /* Info.plist */,
+				4D562EC2272FC8DA008A888A /* ToDoList.md */,
 			);
 			path = "UI_1l_Тивиков_Антон";
 			sourceTree = "<group>";
@@ -103,7 +105,7 @@
 				};
 			};
 			buildConfigurationList = 4DAE15B42729255F00142B21 /* Build configuration list for PBXProject "UI_1l_Тивиков_Антон" */;
-			compatibilityVersion = "Xcode 12.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
