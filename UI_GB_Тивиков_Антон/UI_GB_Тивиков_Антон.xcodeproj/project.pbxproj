@@ -7,28 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4DAE15BD2729255F00142B21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DAE15BC2729255F00142B21 /* AppDelegate.swift */; };
-		4DAE15BF2729255F00142B21 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DAE15BE2729255F00142B21 /* SceneDelegate.swift */; };
-		4DAE15C12729255F00142B21 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DAE15C02729255F00142B21 /* ViewController.swift */; };
-		4DAE15C42729255F00142B21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DAE15C22729255F00142B21 /* Main.storyboard */; };
-		4DAE15C62729256200142B21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DAE15C52729256200142B21 /* Assets.xcassets */; };
-		4DAE15C92729256200142B21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DAE15C72729256200142B21 /* LaunchScreen.storyboard */; };
+		4DA3A8E4273AEE92009ED493 /* GroupTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA3A8E3273AEE92009ED493 /* GroupTableViewController.swift */; };
+		4DA3A8E7273AF25F009ED493 /* FriendsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA3A8E6273AF25F009ED493 /* FriendsTableViewController.swift */; };
+		4DE53F4C273270D300EF66BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE53F4B273270D300EF66BD /* AppDelegate.swift */; };
+		4DE53F4E273270D300EF66BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE53F4D273270D300EF66BD /* SceneDelegate.swift */; };
+		4DE53F50273270D300EF66BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE53F4F273270D300EF66BD /* ViewController.swift */; };
+		4DE53F53273270D300EF66BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE53F51273270D300EF66BD /* Main.storyboard */; };
+		4DE53F55273270D500EF66BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DE53F54273270D500EF66BD /* Assets.xcassets */; };
+		4DE53F58273270D500EF66BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DE53F56273270D500EF66BD /* LaunchScreen.storyboard */; };
+		4DE53F61273276E200EF66BD /* LoginFormControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE53F60273276E200EF66BD /* LoginFormControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4D562EC2272FC8DA008A888A /* ToDoList.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ToDoList.md; sourceTree = "<group>"; };
-		4DAE15B92729255F00142B21 /* UI_1l_Тивиков_Антон.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI_1l_Тивиков_Антон.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4DAE15BC2729255F00142B21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4DAE15BE2729255F00142B21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4DAE15C02729255F00142B21 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4DAE15C32729255F00142B21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4DAE15C52729256200142B21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4DAE15C82729256200142B21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4DAE15CA2729256200142B21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DA3A8E3273AEE92009ED493 /* GroupTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupTableViewController.swift; sourceTree = "<group>"; };
+		4DA3A8E6273AF25F009ED493 /* FriendsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsTableViewController.swift; sourceTree = "<group>"; };
+		4DE53F48273270D300EF66BD /* UI_GB_Тивиков_Антон.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UI_GB_Тивиков_Антон.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DE53F4B273270D300EF66BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4DE53F4D273270D300EF66BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4DE53F4F273270D300EF66BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4DE53F52273270D300EF66BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4DE53F54273270D500EF66BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DE53F57273270D500EF66BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4DE53F59273270D500EF66BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DE53F5F2732731400EF66BD /* ToDoList.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ToDoList.md; sourceTree = "<group>"; };
+		4DE53F60273276E200EF66BD /* LoginFormControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFormControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4DAE15B62729255F00142B21 /* Frameworks */ = {
+		4DE53F45273270D300EF66BD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,73 +44,84 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4DAE15B02729255F00142B21 = {
+		4DA3A8E5273AF1F8009ED493 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				4DAE15BB2729255F00142B21 /* UI_1l_Тивиков_Антон */,
-				4DAE15BA2729255F00142B21 /* Products */,
+				4DE53F60273276E200EF66BD /* LoginFormControllerViewController.swift */,
+				4DA3A8E3273AEE92009ED493 /* GroupTableViewController.swift */,
+				4DA3A8E6273AF25F009ED493 /* FriendsTableViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		4DE53F3F273270D300EF66BD = {
+			isa = PBXGroup;
+			children = (
+				4DE53F5F2732731400EF66BD /* ToDoList.md */,
+				4DE53F4A273270D300EF66BD /* UI_GB_Тивиков_Антон */,
+				4DE53F49273270D300EF66BD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4DAE15BA2729255F00142B21 /* Products */ = {
+		4DE53F49273270D300EF66BD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4DAE15B92729255F00142B21 /* UI_1l_Тивиков_Антон.app */,
+				4DE53F48273270D300EF66BD /* UI_GB_Тивиков_Антон.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4DAE15BB2729255F00142B21 /* UI_1l_Тивиков_Антон */ = {
+		4DE53F4A273270D300EF66BD /* UI_GB_Тивиков_Антон */ = {
 			isa = PBXGroup;
 			children = (
-				4DAE15BC2729255F00142B21 /* AppDelegate.swift */,
-				4DAE15BE2729255F00142B21 /* SceneDelegate.swift */,
-				4DAE15C02729255F00142B21 /* ViewController.swift */,
-				4DAE15C22729255F00142B21 /* Main.storyboard */,
-				4DAE15C52729256200142B21 /* Assets.xcassets */,
-				4DAE15C72729256200142B21 /* LaunchScreen.storyboard */,
-				4DAE15CA2729256200142B21 /* Info.plist */,
-				4D562EC2272FC8DA008A888A /* ToDoList.md */,
+				4DA3A8E5273AF1F8009ED493 /* Controllers */,
+				4DE53F4B273270D300EF66BD /* AppDelegate.swift */,
+				4DE53F4D273270D300EF66BD /* SceneDelegate.swift */,
+				4DE53F4F273270D300EF66BD /* ViewController.swift */,
+				4DE53F51273270D300EF66BD /* Main.storyboard */,
+				4DE53F54273270D500EF66BD /* Assets.xcassets */,
+				4DE53F56273270D500EF66BD /* LaunchScreen.storyboard */,
+				4DE53F59273270D500EF66BD /* Info.plist */,
 			);
-			path = "UI_1l_Тивиков_Антон";
+			path = "UI_GB_Тивиков_Антон";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4DAE15B82729255F00142B21 /* UI_1l_Тивиков_Антон */ = {
+		4DE53F47273270D300EF66BD /* UI_GB_Тивиков_Антон */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4DAE15CD2729256200142B21 /* Build configuration list for PBXNativeTarget "UI_1l_Тивиков_Антон" */;
+			buildConfigurationList = 4DE53F5C273270D500EF66BD /* Build configuration list for PBXNativeTarget "UI_GB_Тивиков_Антон" */;
 			buildPhases = (
-				4DAE15B52729255F00142B21 /* Sources */,
-				4DAE15B62729255F00142B21 /* Frameworks */,
-				4DAE15B72729255F00142B21 /* Resources */,
+				4DE53F44273270D300EF66BD /* Sources */,
+				4DE53F45273270D300EF66BD /* Frameworks */,
+				4DE53F46273270D300EF66BD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "UI_1l_Тивиков_Антон";
-			productName = "UI_1l_Тивиков_Антон";
-			productReference = 4DAE15B92729255F00142B21 /* UI_1l_Тивиков_Антон.app */;
+			name = "UI_GB_Тивиков_Антон";
+			productName = "UI_GB_Тивиков_Антон";
+			productReference = 4DE53F48273270D300EF66BD /* UI_GB_Тивиков_Антон.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4DAE15B12729255F00142B21 /* Project object */ = {
+		4DE53F40273270D300EF66BD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					4DAE15B82729255F00142B21 = {
+					4DE53F47273270D300EF66BD = {
 						CreatedOnToolsVersion = 13.0;
 					};
 				};
 			};
-			buildConfigurationList = 4DAE15B42729255F00142B21 /* Build configuration list for PBXProject "UI_1l_Тивиков_Антон" */;
+			buildConfigurationList = 4DE53F43273270D300EF66BD /* Build configuration list for PBXProject "UI_GB_Тивиков_Антон" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,55 +129,58 @@
 				en,
 				Base,
 			);
-			mainGroup = 4DAE15B02729255F00142B21;
-			productRefGroup = 4DAE15BA2729255F00142B21 /* Products */;
+			mainGroup = 4DE53F3F273270D300EF66BD;
+			productRefGroup = 4DE53F49273270D300EF66BD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4DAE15B82729255F00142B21 /* UI_1l_Тивиков_Антон */,
+				4DE53F47273270D300EF66BD /* UI_GB_Тивиков_Антон */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4DAE15B72729255F00142B21 /* Resources */ = {
+		4DE53F46273270D300EF66BD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DAE15C92729256200142B21 /* LaunchScreen.storyboard in Resources */,
-				4DAE15C62729256200142B21 /* Assets.xcassets in Resources */,
-				4DAE15C42729255F00142B21 /* Main.storyboard in Resources */,
+				4DE53F58273270D500EF66BD /* LaunchScreen.storyboard in Resources */,
+				4DE53F55273270D500EF66BD /* Assets.xcassets in Resources */,
+				4DE53F53273270D300EF66BD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4DAE15B52729255F00142B21 /* Sources */ = {
+		4DE53F44273270D300EF66BD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DAE15C12729255F00142B21 /* ViewController.swift in Sources */,
-				4DAE15BD2729255F00142B21 /* AppDelegate.swift in Sources */,
-				4DAE15BF2729255F00142B21 /* SceneDelegate.swift in Sources */,
+				4DE53F50273270D300EF66BD /* ViewController.swift in Sources */,
+				4DA3A8E4273AEE92009ED493 /* GroupTableViewController.swift in Sources */,
+				4DA3A8E7273AF25F009ED493 /* FriendsTableViewController.swift in Sources */,
+				4DE53F4C273270D300EF66BD /* AppDelegate.swift in Sources */,
+				4DE53F61273276E200EF66BD /* LoginFormControllerViewController.swift in Sources */,
+				4DE53F4E273270D300EF66BD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4DAE15C22729255F00142B21 /* Main.storyboard */ = {
+		4DE53F51273270D300EF66BD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4DAE15C32729255F00142B21 /* Base */,
+				4DE53F52273270D300EF66BD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4DAE15C72729256200142B21 /* LaunchScreen.storyboard */ = {
+		4DE53F56273270D500EF66BD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4DAE15C82729256200142B21 /* Base */,
+				4DE53F57273270D500EF66BD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -168,7 +188,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4DAE15CB2729256200142B21 /* Debug */ = {
+		4DE53F5A273270D500EF66BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +249,7 @@
 			};
 			name = Debug;
 		};
-		4DAE15CC2729256200142B21 /* Release */ = {
+		4DE53F5B273270D500EF66BD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,7 +304,7 @@
 			};
 			name = Release;
 		};
-		4DAE15CE2729256200142B21 /* Debug */ = {
+		4DE53F5D273270D500EF66BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,11 +313,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 79DGGJ6L6Z;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UI_1l_Тивиков_Антон/Info.plist";
+				INFOPLIST_FILE = "UI_GB_Тивиков_Антон/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -305,7 +324,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-tivikov.UI-1l--------------";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-tivikov.UI-GB--------------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -313,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		4DAE15CF2729256200142B21 /* Release */ = {
+		4DE53F5E273270D500EF66BD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -322,11 +341,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 79DGGJ6L6Z;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UI_1l_Тивиков_Антон/Info.plist";
+				INFOPLIST_FILE = "UI_GB_Тивиков_Антон/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -334,7 +352,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-tivikov.UI-1l--------------";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-tivikov.UI-GB--------------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -345,25 +363,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4DAE15B42729255F00142B21 /* Build configuration list for PBXProject "UI_1l_Тивиков_Антон" */ = {
+		4DE53F43273270D300EF66BD /* Build configuration list for PBXProject "UI_GB_Тивиков_Антон" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4DAE15CB2729256200142B21 /* Debug */,
-				4DAE15CC2729256200142B21 /* Release */,
+				4DE53F5A273270D500EF66BD /* Debug */,
+				4DE53F5B273270D500EF66BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4DAE15CD2729256200142B21 /* Build configuration list for PBXNativeTarget "UI_1l_Тивиков_Антон" */ = {
+		4DE53F5C273270D500EF66BD /* Build configuration list for PBXNativeTarget "UI_GB_Тивиков_Антон" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4DAE15CE2729256200142B21 /* Debug */,
-				4DAE15CF2729256200142B21 /* Release */,
+				4DE53F5D273270D500EF66BD /* Debug */,
+				4DE53F5E273270D500EF66BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4DAE15B12729255F00142B21 /* Project object */;
+	rootObject = 4DE53F40273270D300EF66BD /* Project object */;
 }
