@@ -47,7 +47,6 @@ class LoginFormControllerViewController: UIViewController {
     self.ScrollView?.contentInset = contentInsets
     ScrollView?.scrollIndicatorInsets = contentInsets }
         //Когда клавиатура исчезает
-    
     @objc func keyboardWillBeHidden(notification: Notification) {
         let contentInsets = UIEdgeInsets.zero
         ScrollView?.contentInset = contentInsets
@@ -57,18 +56,10 @@ class LoginFormControllerViewController: UIViewController {
     @objc func hideKeyboard() {
         self.ScrollView?.endEditing(true)
     }
-    
 
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-       
-
-       
+    
     }
     
 
